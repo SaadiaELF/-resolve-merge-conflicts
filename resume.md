@@ -1,6 +1,6 @@
 # Resume
 
-# GitHub Teacher
+# GitHub
 
 Charting the knowledge of the Internet, just like Galileo charted the stars.
 
